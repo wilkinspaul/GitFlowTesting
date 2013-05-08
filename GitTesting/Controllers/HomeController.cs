@@ -17,7 +17,7 @@ namespace GitTesting.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your app description page.";
+            ViewBag.Message = "Your app description page. Second branch first change to this file.";
 
             return View();
         }
